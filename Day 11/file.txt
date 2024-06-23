@@ -1,0 +1,9 @@
+Here ive used the module 
+
+
+existsSync()
+--
+to check the whther file is alreayd existed or not in component
+
+
+using the file system for accomodate the component

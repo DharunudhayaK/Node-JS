@@ -1,0 +1,1 @@
+sync the node js file text in other component
