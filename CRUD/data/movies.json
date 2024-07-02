@@ -1,0 +1,128 @@
+[
+  {
+    "id": "c8f0e750-0166-47ba-b8f9-b2ad8e4a58d0",
+    "title": "Terminator",
+    "year": "1993",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.0"
+  },
+  {
+    "id": "b3d6f0c1-3b3d-46e1-8eb8-91c1b3f7ec11",
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "genre": "Crime, Drama",
+    "rating": "8.9"
+  },
+  {
+    "id": "c9f7e7a0-8d6b-4c7a-b2e6-917f3b7e1f1a",
+    "title": "Forrest Gump",
+    "year": "1994",
+    "genre": "Drama, Romance",
+    "rating": "8.8"
+  },
+  {
+    "id": "d4a7f5b2-3c6f-4c5b-9a3c-8d6e2f3f7b2a",
+    "title": "Fight Club",
+    "year": "1999",
+    "genre": "Drama",
+    "rating": "8.8"
+  },
+  {
+    "id": "e2c8a5c0-9b7d-4b6e-9f6b-7e1d3a8b9c2d",
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "genre": "Drama",
+    "rating": "9.3"
+  },
+  {
+    "id": "f3b9d7e1-4e8c-4d3b-8e7f-2f3b7e8a9c1d",
+    "title": "The Godfather",
+    "year": "1972",
+    "genre": "Crime, Drama",
+    "rating": "9.2"
+  },
+  {
+    "id": "a5d8c9b3-7e4c-4b9a-8c2d-1a9e7b8d3c4e",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "genre": "Action, Adventure, Drama",
+    "rating": "8.9"
+  },
+  {
+    "title": "Narnia",
+    "year": "2002",
+    "genre": "Action, Sci-Fi",
+    "rating": "7.2",
+    "id": "7a42052a-5bdc-4e7c-8476-92945ff7db0e"
+  },
+  {
+    "title": "Predator",
+    "year": "1992",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.6",
+    "id": "c4db3bcc-45a1-4a93-98b8-2df908ef4a0f"
+  },
+  {
+    "title": "Predator",
+    "year": "1992",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.6",
+    "id": "b3142bde-b6ad-4941-a55c-648176ab1e79"
+  },
+  {
+    "title": "Predator",
+    "year": "1992",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.6",
+    "id": "b2eaa4ed-1be0-4cb7-9b59-6f8740199a41"
+  },
+  {
+    "title": "Predator",
+    "year": "1992",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.6",
+    "id": "9a3f8059-b122-4a51-9c16-18c9dc81fec9"
+  },
+  {
+    "title": "Predator",
+    "year": "1992",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.6",
+    "id": "0032c1cb-59c6-4b23-a48f-0acbbb8410e2"
+  },
+  {
+    "title": "Predator",
+    "year": "1992",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.6",
+    "id": "4ad096c1-39a5-489f-bf59-fc4a848174ea"
+  },
+  {
+    "title": "Predator",
+    "year": "1992",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.6",
+    "id": "3cebeb7a-9412-449c-becc-acfac53d6212"
+  },
+  {
+    "title": "Predator",
+    "year": "1992",
+    "genre": "Action, Sci-Fi",
+    "rating": "8.6",
+    "id": "e708a93a-a072-43e1-ba3e-06e74eeec141"
+  },
+  {
+    "title": "Rambo",
+    "year": "1990",
+    "genre": "Crime, Action",
+    "rating": "7.9",
+    "id": "f8f7ed0a-b1fb-4d6c-b706-d58f49008ca7"
+  },
+  {
+    "id": "92a6c5a4-f58a-421f-bc8f-4e434262672d",
+    "title": "Rambo Last Blood",
+    "year": "2016",
+    "genre": "Crime, Action, thriller",
+    "rating": "7.0"
+  }
+]
