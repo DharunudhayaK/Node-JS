@@ -10,6 +10,7 @@ let moviesData = require("./data/movies.json");
 
 const server = http.createServer((req, res) => {
   req.moviesData = moviesData;
+  console.log(req.method);
   switch (req.method) {
     case "GET":
       getReq(req, res);
